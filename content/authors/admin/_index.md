@@ -18,8 +18,8 @@ bio: My research interests include xxx.
 
 # Interests to show in About widget
 interests:
-  - Digital Technology
-  - Categories
+  - Digital Technology Adoption and Innovation
+  - Categories and Evaluation
   - Institution
 
 # Education to show in About widget
