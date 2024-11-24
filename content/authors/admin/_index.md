@@ -18,9 +18,9 @@ bio: My research interests include xxx.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Technology
+  - Categories
+  - Institution
 
 # Education to show in About widget
 education:
